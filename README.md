@@ -19,6 +19,12 @@
     - [Must watch](#must-watch)
     - [Just tell me what to do](#just-tell-me-what-to-do-1)
   - [WS 2 - Suit up your apps](#ws-2---suit-up-your-apps)
+    - [Must read](#must-read-1)
+      - [About HTML/CSS](#about-htmlcss)
+      - [About Web Design: basic and trending](#about-web-design-basic-and-trending)
+      - [About Cross Browser and Device](#about-cross-browser-and-device)
+    - [Must watch](#must-watch-1)
+    - [Just tell me what to do](#just-tell-me-what-to-do-2)
   - [WS 3 - Node.js, Master of Universe](#ws-3---nodejs-master-of-universe)
   - [WS 4 - Toolbox and Productivity](#ws-4---toolbox-and-productivity)
   - [WS 5 - Frameworks VS Micro-libraries](#ws-5---frameworks-vs-micro-libraries)
@@ -93,7 +99,39 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ### WS 2 - Suit up your apps
 
-*Next Episode*
+#### Must read
+
+##### About HTML/CSS
+
+* [Your first lesson: Learning HTML and web page layout
+](https://medium.com/teach-yourself-web-development/your-first-day-learning-html-and-how-a-webpage-is-laid-out-41558ff08264#.w93jyhz16)
+* [Principles of writing consistent, idiomatic CSS
+](https://github.com/necolas/idiomatic-css)
+* [Three Simple Techniques for Writing More Semantic and Maintainable JavaScript Apps](https://medium.com/space-camp/three-simple-techniques-for-writing-more-semantic-and-maintainable-javascript-apps-206b4fb89f15#.v9uij0vpx)
+* [Comparing CSS code styles and deciding which is the best practice](https://medium.com/@WoloxEngineering/comparing-css-code-styles-and-deciding-which-is-the-best-practice-360a8e058988#.wxncpuu50)
+* [Your first lesson: Learning HTML and web page layout](https://medium.com/teach-yourself-web-development/your-first-day-learning-html-and-how-a-webpage-is-laid-out-41558ff08264#.fi7jr7ul8)
+
+##### About Web Design: basic and trending
+
+* [Mobile:2015 - UI / UX Trends](https://medium.com/interactive-mind/mobile-2015-263ab694e60e#.umoxkroh8)
+* [The big web design trends for 2015](https://99designs.com/designer-blog/2015/01/16/top-web-design-trends-2015/)
+* [Modern UI/UX for SaaS applications in 2015 and Beyond](https://medium.com/hackerpreneur-magazine/modern-ui-ux-hacks-for-saas-applications-in-2015-and-beyond-f7b9a4f231dd#.x6x6gnnz8)
+
+##### About Cross Browser and Device
+
+* [Facing The Challenge: Building A Responsive Web Application](https://www.smashingmagazine.com/2013/06/building-a-responsive-web-application/)
+* [The State Of Responsive Web Design](https://www.smashingmagazine.com/2013/05/the-state-of-responsive-web-design/)
+* [Responsive or Adaptive](https://medium.com/@gnakan/responsive-or-adaptive-edee7a2d4f08#.b13qifufy)
+
+#### Must watch
+
+* [Don Norman: 3 ways good design makes you happy](https://www.ted.com/talks/don_norman_on_design_and_emotion)
+
+#### Just tell me what to do
+
+1. Follow the guide to create card with MDL: [Learning Material Design Lite: Cards](http://webdesign.tutsplus.com/tutorials/learning-material-design-lite-cards--cms-24633)
+
+1. Follow the guide to create grid with MDL: [Learning Material Design Lite: The Grid](http://webdesign.tutsplus.com/tutorials/learning-material-design-lite-the-grid--cms-24531)
 
 ### WS 3 - Node.js, Master of Universe
 
