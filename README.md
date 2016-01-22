@@ -26,6 +26,9 @@
     - [Must watch](#must-watch-1)
     - [Just tell me what to do](#just-tell-me-what-to-do-2)
   - [WS 3 - Node.js, Master of Universe](#ws-3---nodejs-master-of-universe)
+    - [Must read](#must-read-2)
+    - [Must watch](#must-watch-2)
+    - [Just tell me what to do](#just-tell-me-what-to-do-3)
   - [WS 4 - Toolbox and Productivity](#ws-4---toolbox-and-productivity)
   - [WS 5 - Frameworks VS Micro-libraries](#ws-5---frameworks-vs-micro-libraries)
   - [WS 6 - 3 Musketeers: RDD, CDD and TDD](#ws-6---3-musketeers-rdd-cdd-and-tdd)
@@ -135,7 +138,30 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ### WS 3 - Node.js, Master of Universe
 
-*Next Episode*
+#### Must read
+
+* [a short introduction to node.js](https://github.com/maxogden/art-of-node#the-art-of-node)
+* [Teach Yourself Node.JS in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+* [Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
+* [Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
+* [How to Create and Publish Your First Node.js Module](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738#.290nx8msv)
+* [Introduction to Express](http://code.tutsplus.com/tutorials/introduction-to-express--net-33367)
+* [How the V8 engine works?](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
+* [Getting to know NODE - Infography ](http://i.imgur.com/KCkIkcY.jpg)
+* [Node has arrived - Infography](http://i.imgur.com/qrhh5Xk.jpg)
+
+#### Must watch
+
+* [A Video Introduction to Node.js Fundamentals](https://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
+
+#### Just tell me what to do
+
+1. Install Node v4 without **sudo**
+
+1. Be sure that you can install node packages with npm **without to be sudo**
+
+1. Complete all steps of [Learn You The Node.js For Much Win!](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win) tutorial
+
 
 ### WS 4 - Toolbox and Productivity
 
