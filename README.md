@@ -18,6 +18,7 @@
     - [About Javascript](#about-javascript)
     - [Must watch](#must-watch)
     - [Just tell me what to do](#just-tell-me-what-to-do-1)
+    - [Workshop](#workshop)
   - [WS 2 - Suit up your apps](#ws-2---suit-up-your-apps)
     - [Must read](#must-read-1)
       - [About HTML/CSS](#about-htmlcss)
@@ -25,6 +26,7 @@
       - [About Cross Browser and Device](#about-cross-browser-and-device)
     - [Must watch](#must-watch-1)
     - [Just tell me what to do](#just-tell-me-what-to-do-2)
+    - [Workshop](#workshop-1)
   - [WS 3 - Node.js, Master of Universe](#ws-3---nodejs-master-of-universe)
     - [Must read](#must-read-2)
     - [Must watch](#must-watch-2)
@@ -100,6 +102,10 @@ To be ready the workshop day, links to tutorials, exercises to do.
 1. Be sure to understand source code management with git.
 If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
+#### Workshop
+
+* [drivy](https://github.com/92bondstreet/drivy)
+
 ### WS 2 - Suit up your apps
 
 #### Must read
@@ -135,6 +141,10 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 1. Follow the guide to create card with MDL: [Learning Material Design Lite: Cards](http://webdesign.tutsplus.com/tutorials/learning-material-design-lite-cards--cms-24633)
 
 1. Follow the guide to create grid with MDL: [Learning Material Design Lite: The Grid](http://webdesign.tutsplus.com/tutorials/learning-material-design-lite-the-grid--cms-24531)
+
+#### Workshop
+
+* [suit up drivy](https://github.com/92bondstreet/suit-up-drivy)
 
 ### WS 3 - Node.js, Master of Universe
 
