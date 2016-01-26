@@ -32,6 +32,12 @@
     - [Must watch](#must-watch-2)
     - [Just tell me what to do](#just-tell-me-what-to-do-3)
   - [WS 4 - Toolbox and Productivity](#ws-4---toolbox-and-productivity)
+    - [Must read](#must-read-3)
+      - [About productivity](#about-productivity)
+      - [About tools](#about-tools)
+      - [About Git](#about-git)
+    - [Must watch](#must-watch-3)
+    - [Just tell me what to do](#just-tell-me-what-to-do-4)
   - [WS 5 - Frameworks VS Micro-libraries](#ws-5---frameworks-vs-micro-libraries)
   - [WS 6 - 3 Musketeers: RDD, CDD and TDD](#ws-6---3-musketeers-rdd-cdd-and-tdd)
   - [WS 7 - SPA, Design Patterns and Performance](#ws-7---spa-design-patterns-and-performance)
@@ -175,7 +181,35 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ### WS 4 - Toolbox and Productivity
 
-*Next Episode*
+#### Must read
+
+##### About productivity
+
+* [Manifesto for Software Crafmanship](http://manifesto.softwarecraftsmanship.org/)
+* [Improving the developer workflow](https://medium.com/@thibmaekelbergh/improving-the-developer-workflow-25c42d174fbd#.etvuk0cxp)
+* [The Myth of Developer Productivity](http://www.dev9.com/article/2015/1/the-myth-of-developer-productivity)
+
+##### About tools
+
+* [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers)
+* [Current Workflow: Developing, Linting, Testing and Distributing JavaScript](http://custardbelly.com/blog/blog-posts/2012/02/07/current-workflow-developing-linting-testing-and-distributing-javascript/)
+* [A Craftsman & Their Tools](https://medium.com/@jessewaites/a-craftsman-their-tools-tools-youll-use-when-learning-rails-ac14ce2106e5#.ncnrgs7e8)
+* [What are the best productivity tools for programmers?](https://www.quora.com/What-are-the-best-productivity-tools-for-programmers)
+
+##### About Git
+
+* [A Visual Git Reference](https://github.com/92bondstreet/web-application-architectures/blob/master/CM2/git-me-imfamous.md)
+* [Conversational Git](http://blog.anvard.org/conversational-git/)
+
+#### Must watch
+
+* [Automating Your Front-end Workflow with Yeoman 1.0 by Addy Osmani](https://www.youtube.com/results?q=Front-end+Tooling+Workflows&sp=CAMSAhgC)
+* [Front End Ops Tooling [JSConf2014] by Nico Bevacqua](https://www.youtube.com/watch?v=Y0DCZdAruvo)
+
+#### Just tell me what to do
+
+1. List your top 5 tasks you do the most every day on your device
+1. Find a way (script with node, aliases, bash... ) to help you to be more efficient with these tasks
 
 ### WS 5 - Frameworks VS Micro-libraries
 
