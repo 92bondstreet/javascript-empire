@@ -31,6 +31,7 @@
     - [Must read](#must-read-2)
     - [Must watch](#must-watch-2)
     - [Just tell me what to do](#just-tell-me-what-to-do-3)
+    - [Workshop](#workshop-2)
   - [WS 4 - Toolbox and Productivity](#ws-4---toolbox-and-productivity)
     - [Must read](#must-read-3)
       - [About productivity](#about-productivity)
@@ -178,6 +179,9 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 1. Complete all steps of [Learn You The Node.js For Much Win!](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win) tutorial
 
+#### Workshop
+
+* [Carrez](https://github.com/92bondstreet/carrez)
 
 ### WS 4 - Toolbox and Productivity
 
