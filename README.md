@@ -40,6 +40,11 @@
     - [Must watch](#must-watch-3)
     - [Just tell me what to do](#just-tell-me-what-to-do-4)
   - [WS 5 - Frameworks VS Micro-libraries](#ws-5---frameworks-vs-micro-libraries)
+    - [Must read](#must-read-4)
+      - [The battle](#the-battle)
+      - [About Flux](#about-flux)
+    - [Must watch](#must-watch-4)
+    - [Just tell me what to do](#just-tell-me-what-to-do-5)
   - [WS 6 - 3 Musketeers: RDD, CDD and TDD](#ws-6---3-musketeers-rdd-cdd-and-tdd)
   - [WS 7 - SPA, Design Patterns and Performance](#ws-7---spa-design-patterns-and-performance)
   - [WS 8 - API-ness](#ws-8---api-ness)
@@ -217,7 +222,43 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ### WS 5 - Frameworks VS Micro-libraries
 
-*Next Episode*
+#### Must read
+
+##### The battle
+
+* [The Pros And Cons Of JavaScript Micro-Frameworks](http://addyosmani.com/blog/prosconsmicroframeworks/)
+* [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!](http://microjs.com/)
+* [2015: The End of the Monolithic JavaScript Framework](https://andywalpole.me/#!/blog/142134/2015-the-end-the-monolithic-javascript-framework)
+* [4 Questions to Ask Before Choosing a JavaScript Framework](https://www.sencha.com/blog/4-questions-to-ask-before-choosing-a-javascript-framework/)
+* [JavaScript Application Architecture On The Road To 2015](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.blk7a2vvv)
+* [The Future of the JavaScript front-end framework](https://medium.com/@RobertTheGrey/the-future-of-the-javascript-front-end-framework-bc329d2af600#.8imzgfjpl)
+* [How I structure JavaScript](https://medium.com/@cnorthwood/how-i-structure-javascript-ad9fa38446a1#.h6rxjje72)
+* [How do javascript frameworks operate?](https://medium.com/@VinhNguyen/how-do-javascript-frameworks-operate-ef7e77304502#.4iq4i3496)
+* [Javascript MVC Frameworks: Your Choice is Your Future](https://medium.com/@gocodal/javascript-mvc-frameworks-your-choice-is-your-future-34af974d41fc#.iynnd333v)
+* [Criteria on choosing JavaScript Framework](https://medium.com/@rahmatawaludin/criteria-on-choosing-javascript-framework-fda293bdbe55#.7gc1crleo)
+* [how to build modular applications with browserify](https://github.com/substack/browserify-handbook)
+* [Clash of the Titans: Angular VS Backbone VS Ember
+](https://medium.com/@romarimsha/clash-of-the-titans-angular-vs-backbone-vs-ember-d3a054249430#.usjilxz6f)
+
+##### About Flux
+
+* [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+* [What is the Flux
+Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.h57lj33g9)
+* [JS micro-frameworks meet flux: notes from my quest for a front-end architecture](https://medium.com/@jsdotcr/js-micro-frameworks-meet-flux-notes-from-my-quest-for-a-front-end-architecture-d38c853b7132#.yqogaflpp)
+* [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+
+#### Must watch
+
+* [Don't Rewrite, React! at react-europe 2015 by Ryan Florence](https://www.youtube.com/watch?v=BF58ZJ1ZQxY)
+
+#### Just tell me what to do
+
+Follow the first 3 tutorials:
+
+1. [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+1. [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+1. [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
 ### WS 6 - 3 Musketeers: RDD, CDD and TDD
 
