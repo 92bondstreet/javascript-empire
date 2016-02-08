@@ -46,6 +46,9 @@
     - [Must watch](#must-watch-4)
     - [Just tell me what to do](#just-tell-me-what-to-do-5)
   - [WS 6 - 3 Musketeers: RDD, CDD and TDD](#ws-6---3-musketeers-rdd-cdd-and-tdd)
+    - [Must read](#must-read-5)
+    - [Must watch](#must-watch-5)
+    - [Just tell me what to do](#just-tell-me-what-to-do-6)
   - [WS 7 - SPA, Design Patterns and Performance](#ws-7---spa-design-patterns-and-performance)
   - [WS 8 - API-ness](#ws-8---api-ness)
   - [WS 9 - EcmaScript 2015 (ES6)](#ws-9---ecmascript-2015-es6)
@@ -260,9 +263,28 @@ Follow the first 3 tutorials:
 1. [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 1. [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
+#### Workshop
+
+* [Star Wars](https://github.com/92bondstreet/starwars)
+
 ### WS 6 - 3 Musketeers: RDD, CDD and TDD
 
-*Next Episode*
+#### Must read
+
+* [A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
+* [Comment driven development](http://blog.anorgan.com/2012/04/15/comment-driven-development/)
+* [Comment-Driven Development](https://www.approxion.com/?p=99)
+* [Testing Frameworks](https://github.com/sorrycc/awesome-javascript#testing-frameworks)
+* [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.2qa1xy9oe)
+* [Testing JavaScript](https://medium.com/@nickheiner/testing-javascript-8c8efe8434e#.fu83qpr9v)
+
+#### Must watch
+
+* [Test driven Development of Web Apps in Node.Js](https://www.youtube.com/watch?v=E9Fmewoe5L4)
+
+#### Just tell me what to do
+
+Follow the first 5 exercices: [https://github.com/Bloc/frontend-javascript-exercises](https://github.com/Bloc/frontend-javascript-exercises) from [01-javascript-environment/00-environment-test](https://github.com/Bloc/frontend-javascript-exercises/tree/master/01-javascript-environment/00-environment-test) to [05-booleans](https://github.com/Bloc/frontend-javascript-exercises/tree/master/05-booleans/00-basics).
 
 ### WS 7 - SPA, Design Patterns and Performance
 
