@@ -286,9 +286,43 @@ Follow the first 3 tutorials:
 
 Follow the first 5 exercices: [https://github.com/Bloc/frontend-javascript-exercises](https://github.com/Bloc/frontend-javascript-exercises) from [01-javascript-environment/00-environment-test](https://github.com/Bloc/frontend-javascript-exercises/tree/master/01-javascript-environment/00-environment-test) to [05-booleans](https://github.com/Bloc/frontend-javascript-exercises/tree/master/05-booleans/00-basics).
 
+#### Workshop
+
+* [RDD-CDD-TDD](https://github.com/92bondstreet/rdd-cdd-tdd)
+
 ### WS 7 - SPA, Design Patterns and Performance
 
-*Next Episode*
+#### Must read
+
+##### About Single Page Application
+
+* [Rise of the SPA](https://medium.com/@dpup/rise-of-the-spa-fb44da86dc1f#.deu3ubgxy)
+* [Building Single-Page Apps](http://nerds.airbnb.com/slides-and-video-from-spike-brehms-tech-talk/)
+* [Defining Static Web Apps](http://www.staticapps.org/articles/defining-static-web-apps)
+* [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024#.9pw8p8ewm)
+* [Single-Page Applications: Building a Web Stack That Works](https://medium.com/@keithwhor/how-to-build-a-single-page-application-web-stack-that-works-the-baa-architecture-25c1ad941097#.1y27vfi2p)
+* [Should we bundle all the JavaScripts for a Single Page App?](https://medium.com/@bestander_nz/should-we-bundle-all-the-javascripts-for-a-single-page-app-6de4ec405788#.58py5m7oe)
+
+##### About Design Patterns
+
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+* [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
+* [Sass, wat?](https://medium.com/@umayr/from-the-plains-of-css-to-the-mountains-of-sass-6e9f586bbc78#.1kbu347hj)
+
+##### About Performance
+
+* [Best Practices for a Faster Web App with HTML5](http://www.html5rocks.com/en/tutorials/speed/quick/)
+* [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+* [Need for Speed – How to Improve your Website Performance](https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
+* [Why Performance Matters, Part 1: The Perception Of Time](http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
+* [The “Psychological” Speed of Mobile Interfaces](https://medium.com/ui-collection/the-psychological-speed-of-mobile-interfaces-df25276295dd#.j9s488xu1)
+* [An Introduction to Perceived Performance](http://blog.teamtreehouse.com/perceived-performance)
+
+#### Must watch
+
+* [Scalable JavaScript Application Architecture by Nicholas Zakas](https://www.youtube.com/watch?v=vXjVFPosQHw)
+
+#### Just tell me what to do
 
 ### WS 8 - API-ness
 
