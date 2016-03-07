@@ -45,12 +45,25 @@
       - [About Flux](#about-flux)
     - [Must watch](#must-watch-4)
     - [Just tell me what to do](#just-tell-me-what-to-do-5)
+    - [Workshop](#workshop-3)
   - [WS 6 - 3 Musketeers: RDD, CDD and TDD](#ws-6---3-musketeers-rdd-cdd-and-tdd)
     - [Must read](#must-read-5)
     - [Must watch](#must-watch-5)
     - [Just tell me what to do](#just-tell-me-what-to-do-6)
+    - [Workshop](#workshop-4)
   - [WS 7 - SPA, Design Patterns and Performance](#ws-7---spa-design-patterns-and-performance)
+    - [Must read](#must-read-6)
+      - [About Single Page Application](#about-single-page-application)
+      - [About Design Patterns](#about-design-patterns)
+      - [About Performance](#about-performance)
+    - [Must watch](#must-watch-6)
+    - [Just tell me what to do](#just-tell-me-what-to-do-7)
   - [WS 8 - API-ness](#ws-8---api-ness)
+    - [Must read](#must-read-7)
+      - [About Data-Driven Development](#about-data-driven-development)
+    - [About API](#about-api)
+      - [About NOSQL](#about-nosql)
+    - [Must watch](#must-watch-7)
   - [WS 9 - EcmaScript 2015 (ES6)](#ws-9---ecmascript-2015-es6)
 - [Licence](#licence)
 
@@ -326,7 +339,33 @@ Follow the first 5 exercices: [https://github.com/Bloc/frontend-javascript-exerc
 
 ### WS 8 - API-ness
 
-*Next Episode*
+#### Must read
+
+##### About Data-Driven Development
+
+* [The Joyless World of Data-Driven Startups
+](https://medium.com/backchannel/the-joyless-world-of-data-driven-startups-b6f475f11f5f#.nersnluo0)
+* [Spotify, We Need To Talk About Your Data…](https://medium.com/@bg/spotify-we-need-to-talk-about-your-data-f6cbe2473992#.dkzrmex4p)
+* [What Chicken Nuggets Taught Me About Using Data to Design](https://medium.com/design-x-data/what-chicken-nuggets-taught-me-about-using-data-to-design-b7d44dc7e855#.eshsn9gv9)
+* [Data (v.)](https://medium.com/@blprnt/data-v-da0e0d24777c#.vhndps44v)
+* [Big-data-boom](https://medium.com/@Capuchin/big-data-boom-how-data-world-is-going-to-change-by-2017-4c0604d90e62#.1ju33c2yv)
+
+#### About API
+
+* [Design a beautiful REST API
+](https://medium.com/@zwacky/design-a-beautiful-rest-api-901c73489458#.sx19mru1l)
+* [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+* [Ten Rules for Good API Design](http://hintjens.com/blog:94)
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?utm_content=buffer00858&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [List of 40 tutorials on how to create an API](http://blog.mashape.com/list-of-40-tutorials-on-how-to-create-an-api/)
+
+##### About NOSQL
+
+* [Relational Databases for Dummies](http://code.tutsplus.com/tutorials/relational-databases-for-dummies--net-30244)
+
+#### Must watch
+
+* [DrupalCon Munich 2012: Designing HTTP Interfaces and RESTful Web Services](https://www.youtube.com/watch?v=zEyg0TnieLg)
 
 ### WS 9 - EcmaScript 2015 (ES6)
 
