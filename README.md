@@ -65,6 +65,8 @@
       - [About NOSQL](#about-nosql)
     - [Must watch](#must-watch-7)
   - [WS 9 - EcmaScript 2015 (ES6)](#ws-9---ecmascript-2015-es6)
+    - [Must Read](#must-read-1)
+    - [Must Watch](#must-watch-1)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -369,7 +371,13 @@ Follow the first 5 exercices: [https://github.com/Bloc/frontend-javascript-exerc
 
 ### WS 9 - EcmaScript 2015 (ES6)
 
-*Next Episode*
+#### Must Read
+
+* [ECMAScript 6](https://github.com/lukehoban/es6features)
+
+#### Must Watch
+
+* [Douglas Crockford – “The Better Parts” | .concat() 2015](https://www.youtube.com/watch?v=_EF-FO63MXs)
 
 ## Licence
 
