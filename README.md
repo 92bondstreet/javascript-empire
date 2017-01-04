@@ -67,6 +67,7 @@
   - [WS 9 - EcmaScript 2015 (ES6)](#ws-9---ecmascript-2015-es6)
     - [Must Read](#must-read-1)
     - [Must Watch](#must-watch-1)
+- [Schedule](#schedule)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -378,6 +379,10 @@ Follow the first 5 exercices: [https://github.com/Bloc/frontend-javascript-exerc
 #### Must Watch
 
 * [Douglas Crockford – “The Better Parts” | .concat() 2015](https://www.youtube.com/watch?v=_EF-FO63MXs)
+
+## Schedule
+
+Example of [schedule](./schedule.md) for live workshops based on 9 days.
 
 ## Licence
 
