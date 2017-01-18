@@ -197,7 +197,7 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 #### Just tell me what to do
 
-1. Install Node v4 without **sudo**
+1. Install [Node (at least) v6](https://nodejs.org/en/download/) without **sudo**
 
 1. Be sure that you can install node packages with npm **without to be sudo**
 
