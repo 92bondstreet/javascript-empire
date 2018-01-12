@@ -92,6 +92,20 @@ Profit
 
 ---
 
+retail or under
+
+resell higher
+
+---
+
+<p style="background-color: #ffffff;color:#222">autopilot</p>
+
+---
+
+Niche
+
+---
+
 How?
 
 ---
@@ -101,6 +115,10 @@ bots
 ---
 
 clustering, high-frequency...
+
+---
+
+tor
 
 ---
 
@@ -120,15 +138,17 @@ docker
 
 ---
 
+swarm
+
+kubernetes
+
+---
+
 elasticsearch
 
 ---
 
 logstash + kibana
-
----
-
-tor
 
 ---
 
@@ -277,7 +297,19 @@ Uber, Airbnb, Snapchat, Dropbox, Spotify, Blabacar...
 
 ---
 
-Web Application
+3 common points
+
+---
+
+Web
+
+---
+
+Application
+
+---
+
+Architecture(s)
 
 ---
 
@@ -873,15 +905,7 @@ No marks
 
 ---
 
-<!-- .slide: data-background="#2ECC40" -->
-
----
-
-<!-- .slide: data-background="#FF851B" -->
-
----
-
-<!-- .slide: data-background="#FF4136" -->
+Be professional
 
 ---
 
@@ -900,6 +924,18 @@ On-time
 ---
 
 as expected
+
+---
+
+<!-- .slide: data-background="#2ECC40" -->
+
+---
+
+<!-- .slide: data-background="#FF851B" -->
+
+---
+
+<!-- .slide: data-background="#FF4136" -->
 
 ---
 
