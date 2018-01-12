@@ -11,53 +11,53 @@
   - [Must Read](#must-read)
   - [Must Watch](#must-watch)
   - [Just tell me what to do](#just-tell-me-what-to-do)
-- [Workshops](#workshops)
-  - [WS 1 - Javascript World Domination](#ws-1---javascript-world-domination)
+- [Courses](#courses)
+  - [Course 1 - Javascript World Domination](#course-1---javascript-world-domination)
     - [Must read](#must-read)
       - [About Internet and Web Application](#about-internet-and-web-application)
       - [About Javascript](#about-javascript)
     - [Must watch](#must-watch)
     - [Just tell me what to do](#just-tell-me-what-to-do-1)
-  - [WS 2 - Suit up your apps](#ws-2---suit-up-your-apps)
+  - [Course 2 - Suit up your apps](#course-2---suit-up-your-apps)
     - [Must read](#must-read-1)
       - [About HTML/CSS](#about-htmlcss)
       - [About Web Design: visions, basic architecture and trending](#about-web-design-visions-basic-architecture-and-trending)
     - [Must watch](#must-watch-1)
     - [Just tell me what to do](#just-tell-me-what-to-do-2)
-  - [WS 3 - Node.js, Master of Universe](#ws-3---nodejs-master-of-universe)
+  - [Course 3 - Node.js, Master of Universe](#course-3---nodejs-master-of-universe)
     - [Must read](#must-read-2)
     - [Must watch](#must-watch-2)
     - [Just tell me what to do](#just-tell-me-what-to-do-3)
-  - [WS 4 - Toolbox and Productivity](#ws-4---toolbox-and-productivity)
+  - [Course 4 - React](#course-4---react)
     - [Must read](#must-read-3)
+      - [The battle of frameworks](#the-battle-of-frameworks)
+      - [About React](#about-react)
+    - [Must watch](#must-watch-3)
+    - [Just tell me what to do](#just-tell-me-what-to-do-4)
+  - [Course 5 - Toolbox and Productivity](#course-5---toolbox-and-productivity)
+    - [Must read](#must-read-4)
       - [About productivity](#about-productivity)
       - [About tools](#about-tools)
       - [About Git and source code management](#about-git-and-source-code-management)
-    - [Must watch](#must-watch-3)
-    - [Just tell me what to do](#just-tell-me-what-to-do-4)
-  - [WS 5 - React](#ws-5---react)
-    - [Must read](#must-read-4)
-      - [The battle Frameworks VS Micro-libraries](#the-battle-frameworks-vs-micro-libraries)
-      - [About React](#about-react)
     - [Must watch](#must-watch-4)
     - [Just tell me what to do](#just-tell-me-what-to-do-5)
-  - [WS 6 - 3 Musketeers: RDD, CDD and TDD](#ws-6---3-musketeers-rdd-cdd-and-tdd)
+  - [Course 6 - 3 Musketeers: RDD, CDD and TDD](#course-6---3-musketeers-rdd-cdd-and-tdd)
     - [Must read](#must-read-5)
       - [About Readme-Driven Development](#about-readme-driven-development)
       - [About Comment-Driven Development](#about-comment-driven-development)
       - [About Test-Driven Development](#about-test-driven-development)
     - [Must watch](#must-watch-5)
     - [Just tell me what to do](#just-tell-me-what-to-do-6)
-  - [WS 7 - API-ness](#ws-7---api-ness)
+  - [Course 7 - API-ness](#course-7---api-ness)
     - [Must read](#must-read-6)
       - [About Data-Driven Development](#about-data-driven-development)
     - [About RESTful API](#about-restful-api)
     - [Must watch](#must-watch-6)
     - [Just tell me what to do](#just-tell-me-what-to-do-7)
-  - [WS 8 - Progressive Web App, world of Hybrid](#ws-8---progressive-web-app-world-of-hybrid)
+  - [Course 8 - Progressive Web App, world of Hybrid](#course-8---progressive-web-app-world-of-hybrid)
     - [Must read](#must-read-7)
     - [Must watch](#must-watch-7)
-  - [WS 9 - EcmaScript 2015 (ES6): the circle is now complete](#ws-9---ecmascript-2015-es6-the-circle-is-now-complete)
+  - [Course 9 - EcmaScript 2015 (ES6): the circle is now complete](#course-9---ecmascript-2015-es6-the-circle-is-now-complete)
     - [Must Read](#must-read-1)
     - [Must Watch](#must-watch-1)
     - [Just tell me what to do](#just-tell-me-what-to-do-8)
@@ -92,9 +92,9 @@ At least 1 talk or podcast link could help you to learn in a passive context (as
 
 To be ready the workshop day, links to tutorials, exercises to do...
 
-## Workshops
+## Courses
 
-### WS 1 - Javascript World Domination
+### Course 1 - Javascript World Domination
 
 #### Must read
 
@@ -129,7 +129,7 @@ If not, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 1. Be ready with your Code Editor
 1. Be ready with your browser developer tools
 
-### WS 2 - Suit up your apps
+### Course 2 - Suit up your apps
 
 #### Must read
 
@@ -165,7 +165,7 @@ Follow the guide to create card with MDL:
 
 * [Learning Material Design Lite: Cards](https://webdesign.tutsplus.com/tutorials/learning-material-design-lite-cards--cms-24633)
 
-### WS 3 - Node.js, Master of Universe
+### Course 3 - Node.js, Master of Universe
 
 #### Must read
 
@@ -185,8 +185,34 @@ Follow the guide to create card with MDL:
 1. Be sure that you can install node packages with npm **without to be sudo**
 1. Complete all steps of [Learn You The Node.js For Much Win!](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win) tutorial
 
+### Course 4 - React
 
-### WS 4 - Toolbox and Productivity
+#### Must read
+
+##### The battle of frameworks
+
+* [5 best JS Frameworks in 2017](https://da-14.com/blog/5-best-javascript-frameworks-2017)
+* [The State of JavaScript Frameworks, 2017](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1)
+* [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+
+##### About React
+
+* [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
+* [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+* [React Enlightenment](https://www.reactenlightenment.com/)
+
+#### Must watch
+
+* [Don't Rewrite, React! at react-europe 2015 by Ryan Florence](https://www.youtube.com/watch?v=BF58ZJ1ZQxY)
+
+#### Just tell me what to do
+
+Follow the tutorial to build an interactive tic-tac-toe game in React
+
+1. [Tutorial: Intro To React By Facebook](https://reactjs.org/tutorial/tutorial.html)
+1. [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+### Course 5 - Toolbox and Productivity
 
 #### Must read
 
@@ -217,34 +243,7 @@ Follow the guide to create card with MDL:
 1. List your top 5 tasks you do the most every day on your device
 1. Find a way (scripts, aliases, bash... ) to help you to be more efficient with these tasks
 
-### WS 5 - React
-
-#### Must read
-
-##### The battle of frameworks
-
-* [5 best JS Frameworks in 2017](https://da-14.com/blog/5-best-javascript-frameworks-2017)
-* [The State of JavaScript Frameworks, 2017](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1)
-* [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
-
-##### About React
-
-* [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
-* [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
-* [React Enlightenment](https://www.reactenlightenment.com/)
-
-#### Must watch
-
-* [Don't Rewrite, React! at react-europe 2015 by Ryan Florence](https://www.youtube.com/watch?v=BF58ZJ1ZQxY)
-
-#### Just tell me what to do
-
-Follow the tutorial to build an interactive tic-tac-toe game in React
-
-1. [Tutorial: Intro To React By Facebook](https://reactjs.org/tutorial/tutorial.html)
-1. [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-
-### WS 6 - 3 Musketeers: RDD, CDD and TDD
+### Course 6 - 3 Musketeers: RDD, CDD and TDD
 
 #### Must read
 
@@ -281,7 +280,7 @@ Write the tests for these 5 exercices:
 * [booleans](https://github.com/Bloc/frontend-javascript-exercises/tree/master/05-booleans/00-basics)
 * [functions](https://github.com/Bloc/frontend-javascript-exercises/tree/master/06-functions/00-basics)
 
-### WS 7 - API-ness
+### Course 7 - API-ness
 
 #### Must read
 
@@ -312,7 +311,7 @@ Follow and Complete this blog post:
 
 * [Build a Node.js API in Under 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
 
-### WS 8 - Progressive Web App, world of Hybrid
+### Course 8 - Progressive Web App, world of Hybrid
 
 #### Must read
 
@@ -327,7 +326,7 @@ Follow and Complete this blog post:
 
 * [High performance web user interfaces - Google I/O 2016](https://www.youtube.com/watch?v=thNyy5eYfbc)
 
-### WS 9 - EcmaScript 2015 (ES6): the circle is now complete
+### Course 9 - EcmaScript 2015 (ES6): the circle is now complete
 
 #### Must Read
 
@@ -342,6 +341,10 @@ Follow and Complete this blog post:
 #### Just tell me what to do
 
 If you want to master ES6, follow all links in this post [How to Learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
+
+## Schedule
+
+Example of [schedule](./SCHEDULE.md) for live workshops based on 9 days sessions.
 
 ## Licence
 
