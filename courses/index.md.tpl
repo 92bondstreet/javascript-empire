@@ -28,9 +28,10 @@ Be able to start an online business with a web application.
 
 Before each workshop, I share some collection of useful links to deep diving on the current subject split in 3 parts. I try to limit to 14 hours of work by week (2h by day, Monday to Sunday).
 
-* **Must Read**
-* **Must Watch**
-* **Just tell me what to do**
+* **📖 Must Read**
+* **🍿 Must Watch**
+* **👩 Just tell me what to do**
+* the 🚀 link. If you have just 30 minutes in your student busy life: **Read the 🚀 link**
 
 ### 📖 Must Read
 
