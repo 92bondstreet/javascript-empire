@@ -2,6 +2,8 @@
 
 > ESILV courses on Web Application Architecture(s)
 
+![Illustration by Katerina Limpitsouni @NinaLimpi](./courses/undraw_building_blocks_n0nc.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -260,6 +262,8 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
     Productivity](http://www.dev9.com/article/2015/1/the-myth-of-developer-productivity)
 -   [The developer’s workflow in practice  -  how we built our MVP in 30
     days](https://medium.freecodecamp.org/the-developers-workflow-in-practice-how-we-built-our-mvp-in-30-days-c60d804695a8)
+-   [19 Tips For Software Engineers In
+    2019](https://dev.to/emmawedekind/19-tips-for-software-engineers-in-2019-4okm)
 
 ##### About tools and setup
 
@@ -425,6 +429,9 @@ language understanding foundation. If you are ready to learn, the
 following links in this post [How to Learn
 ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
 are a goood start.
+
+Then you can follow this awesome path: [Roadmap to becoming a Web
+Developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
 ## 📅 Schedule for live workshops
 
