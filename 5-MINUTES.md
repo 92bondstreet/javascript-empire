@@ -441,6 +441,12 @@ If you have just 30 minutes in your student busy life.
 
 ---
 
+<!-- .slide: data-background="#d8d8d6" -->
+
+![courses](./img/courses.png)
+
+---
+
 📖 Must Read
 
 Useful links to read as blog post
