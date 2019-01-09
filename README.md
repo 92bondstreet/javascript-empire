@@ -264,6 +264,8 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
     days](https://medium.freecodecamp.org/the-developers-workflow-in-practice-how-we-built-our-mvp-in-30-days-c60d804695a8)
 -   [19 Tips For Software Engineers In
     2019](https://dev.to/emmawedekind/19-tips-for-software-engineers-in-2019-4okm)
+-   [Use the full power of Your Brain to be a Better Developer
+    🧠❤️👩🏻‍💻](https://dev.to/teamxenox/use-the-full-power-of-your-brain-to-be-a-better-developer--27pe)
 
 ##### About tools and setup
 
@@ -278,6 +280,8 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
     environment](https://github.com/jondot/awesome-devenv)
 -   [A list of Free and open-source software for developers -
     FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev)
+-   [How To Write A Kick-Ass Technical
+    Resume](https://dev.to/emmawedekind/how-to-write-a-kick-ass-technical-resume-3mb1)
 
 ##### About Git and source code management
 
