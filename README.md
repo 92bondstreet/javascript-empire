@@ -411,7 +411,7 @@ Follow and complete this blog post:
 Follow and complete this blog post:
 
 -   [Build a realtime PWA with
-    React](https://www.thepolyglotdeveloper.com/2018/09/developing-restful-api-nodejs-mongodb-atlas/)
+    React](https://medium.com/front-end-weekly/build-a-realtime-pwa-with-react-99e7b0fd3270)
 
 ### ⭕ Course 9 - EcmaScript 2015 (ES6): the circle is now complete
 
