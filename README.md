@@ -6,7 +6,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [🎯 Objective](#-objective)
 - [🎣 Methodology](#-methodology)
@@ -56,14 +56,14 @@
     - [About RESTful and GraphQL API](#about-restful-and-graphql-api)
     - [🍿 Must watch](#-must-watch-6)
     - [👩‍💻 Just tell me what to do](#%E2%80%8D-just-tell-me-what-to-do-6)
-  - [📱 Course 8 - Progressive Web App, world of Hybrid](#-course-8---progressive-web-app-world-of-hybrid)
+  - [📱 Course 8 - Make the Web accessible](#-course-8---make-the-web-accessible)
     - [📖 Must read](#-must-read-7)
     - [🍿 Must watch](#-must-watch-7)
     - [👩‍💻 Just tell me what to do](#%E2%80%8D-just-tell-me-what-to-do-7)
   - [⭕ Course 9 - EcmaScript 2015 (ES6): the circle is now complete](#-course-9---ecmascript-2015-es6-the-circle-is-now-complete)
     - [📖 Must read](#-must-read-8)
     - [🍿 Must watch](#-must-watch-8)
-    - [👩‍💻 Just tell me what to do ... for the next days, weeks and months](#%E2%80%8D-just-tell-me-what-to-do--for-the-next-days-weeks-and-months)
+    - [👩‍💻 Just tell me what to do ... for the next days, weeks, months ... even years](#%E2%80%8D-just-tell-me-what-to-do--for-the-next-days-weeks-months--even-years)
 - [📅 Schedule for live workshops](#-schedule-for-live-workshops)
 - [Licence](#licence)
 
@@ -109,26 +109,17 @@ To be ready the workshop day, links to tutorials, exercises to do...
     web](http://www.20thingsilearned.com/en-US/home)
 -   [How the Web Works: A Primer for Newcomers to Web Development (or
     anyone,
-    really)](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.uha3nrozr)
+    really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
 -   [How the Web Works Part II: Client-Server Model & the Structure of a
     Web
-    Application](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.n8w852snh)
+    Application](https://www.freecodecamp.org/news/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3/#.e6tmj8112)
 
 ##### About Javascript
 
 -   🚀 [JavaScript For Cats - An introduction for new
     programmers](http://jsforcats.com/)
--   Introduction to Object-Oriented JavaScript
-    -   [JavaScript object
-        basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-    -   [Object-oriented JavaScript for
-        beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
-    -   [Object
-        prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
-    -   [Inheritance in
-        JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
-    -   [Working with
-        JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+-   [An introduction to Object-Oriented Programming in
+    JavaScript](https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/)
 -   [A re-introduction to
     JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
@@ -143,9 +134,16 @@ To be ready the workshop day, links to tutorials, exercises to do...
 
 1.  Create a [github](https://github.com/) account
 2.  Be sure to understand source code management with git. If not, read
-    [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-3.  Be ready with your Code Editor
-4.  Be ready with your browser developer tools
+    [git - the simple guide](http://rogerdudler.github.io/git-guide/) My
+    advice is to [learn first git
+    concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+    then to master the command line. The command line is not related to
+    an OS (unlike built-in GUI desktop tools)
+3.  Be ready with your [Code
+    Editor](https://dev.to/emmabostian/what-does-your-ide-code-editor-look-like-550e)
+4.  Be ready with your [browser developer
+    tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools).
+    For instance: Chrome, Firefox, Edge or Safari.
 
 ### 🍭 Course 2 - Suit up your apps
 
@@ -153,32 +151,19 @@ To be ready the workshop day, links to tutorials, exercises to do...
 
 ##### About HTML/CSS
 
--   Reminder on page layout
-    -   [Getting Started with HTML and web page
-        layout](https://medium.com/teach-yourself-web-development/your-first-day-learning-html-and-how-a-webpage-is-laid-out-41558ff08264#.w93jyhz16)
-    -   [Adding more tags to your web page. Paragraphs, lists and
-        links](https://medium.com/@andygimma/lesson-2-adding-more-tags-to-your-web-page-9fbcac837b54)
-    -   [Code structure using div
-        tag](https://medium.com/@andygimma/lesson-3-code-structure-using-div-1fd4236b02de)
--   Reminder on css properties and selectors
-    -   [Hello,
-        css](https://internetingishard.com/html-and-css/hello-css/)
-    -   [css
-        selectors](https://internetingishard.com/html-and-css/css-selectors/)
--   🚀 [Learn CSS Layout](http://learnlayout.com/)
+-   [Basic web pages: A friendly tutorial for making (really) simple web
+    pages](https://internetingishard.com/html-and-css/basic-web-pages)
+-   🚀 [Hello CSS: A friendly tutorial for crafting slightly prettier
+    websites](https://internetingishard.com/html-and-css/hello-css)
 -   [Principles of writing consistent: CSS code
     guide](http://codeguide.co/#css)
 
 ##### About Web Design: visions, basic architecture and trending
 
--   [CSS, Sass, SCSS, Compass, Less, BEM, SMACSS, OOCSS, ACSS, CCSS,
-    WTFSS?](https://www.leemunroe.com/css-sass-scss-bem-less/)
--   [Eight Things You Need To Know About Design
-    Systems](https://medium.com/tradecraft-traction/eight-things-you-need-to-know-about-design-systems-bae8bd884b3b)
 -   [Everything you need to know about Design
     Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
--   [10 innovative web design trends for
-    2019](https://en.99designs.fr/blog/trends/web-design-trends-2019)
+-   [8 innovative web design trends for
+    2020](https://en.99designs.fr/blog/trends/web-design-trends)
 
 #### 🍿 Must watch
 
@@ -187,7 +172,8 @@ To be ready the workshop day, links to tutorials, exercises to do...
 
 #### 👩‍💻 Just tell me what to do
 
-Follow the guide to create card with Bootstrap 4:
+Follow the guide to create card with [Bootstrap
+4](https://getbootstrap.com/docs/4.4/examples):
 
 -   [Bootstrap 4 Cards
     Tutorial](https://www.webnots.com/bootstrap-4-cards-tutorial/)
@@ -196,12 +182,9 @@ Follow the guide to create card with Bootstrap 4:
 
 #### 📖 Must read
 
--   [An introduction to
-    Node.js](https://github.com/maxogden/art-of-node#the-art-of-node)
--   [Teach Yourself Node.JS in 10
-    Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
--   🚀 [Introduction to
-    Express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
+-   🚀 [Introduction to Node.js / A beginners guide to Node.js and
+    NPM](https://itnext.io/introduction-to-node-js-a-beginners-guide-to-node-js-and-npm-eca9c408f9fe)
+-   [Introduction to Express](https://flaviocopes.com/express/)
 
 #### 🍿 Must watch
 
@@ -210,7 +193,7 @@ Follow the guide to create card with Bootstrap 4:
 #### 👩‍💻 Just tell me what to do
 
 1.  Install [Node (Latest LTS Version)](https://nodejs.org/en/download/)
-    without **sudo**. My advice is to use
+    **without sudo**. My advice is to use
     [nvm](https://github.com/creationix/nvm), an awesome cross platform
     node installer.
 2.  Be sure that you can install node packages with npm **without to be
@@ -225,18 +208,17 @@ Follow the guide to create card with Bootstrap 4:
 
 ##### The battle of frameworks
 
--   [The Most In-Demand JavaScript Frameworks for Developers in
-    2019](https://blog.bitsrc.io/the-most-in-demand-javascript-frameworks-for-developers-in-2019-39bba192d8dc)
--   🚀 [Top JavaScript Frameworks and Topics to Learn in
-    2019](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+-   [The Top JavaScript Frameworks For Front-End Development in
+    2020](https://www.freecodecamp.org/news/complete-guide-for-front-end-developers-javascript-frameworks-2019/)
+-   [JavaScript Trends in
+    2020](https://codeburst.io/javascript-trends-in-2020-b194bebc5ef8)
 
 ##### About React
 
--   [All the fundamental React.js concepts, jammed into this single
-    Medium
-    article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
--   [9 things every React.js beginner should
-    know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+-   🚀 [A Complete Beginner's Guide to
+    React](https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6)
+-   [Top 10 Tips & Tricks Every React.js Beginner Should
+    Know](https://morioh.com/p/b856ead14ab7)
 
 #### 🍿 Must watch
 
@@ -245,7 +227,8 @@ Follow the guide to create card with Bootstrap 4:
 
 #### 👩‍💻 Just tell me what to do
 
-Follow the tutorial to build an interactive tic-tac-toe game in React
+Follow the tutorial to build an interactive [tic-tac-toe
+game](https://codepen.io/gaearon/pen/gWWZgR) in React
 
 1.  [Tutorial: Intro To React By
     Facebook](https://reactjs.org/tutorial/tutorial.html)
@@ -258,14 +241,10 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
 
 -   🚀 [Manifesto for Software
     Crafmanship](http://manifesto.softwarecraftsmanship.org/)
--   [The Myth of Developer
-    Productivity](http://www.dev9.com/article/2015/1/the-myth-of-developer-productivity)
 -   [The developer’s workflow in practice  -  how we built our MVP in 30
     days](https://medium.freecodecamp.org/the-developers-workflow-in-practice-how-we-built-our-mvp-in-30-days-c60d804695a8)
--   [19 Tips For Software Engineers In
-    2019](https://dev.to/emmawedekind/19-tips-for-software-engineers-in-2019-4okm)
--   [Use the full power of Your Brain to be a Better Developer
-    🧠❤️👩🏻‍💻](https://dev.to/teamxenox/use-the-full-power-of-your-brain-to-be-a-better-developer--27pe)
+-   [101 Tips For Being A Great Programmer (&
+    Human)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl)
 
 ##### About tools and setup
 
@@ -278,20 +257,17 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
 -   [A curated list of awesome tools, resources and workflow tips making
     an awesome development
     environment](https://github.com/jondot/awesome-devenv)
--   [A list of Free and open-source software for developers -
-    FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev)
 -   [How To Write A Kick-Ass Technical
     Resume](https://dev.to/emmawedekind/how-to-write-a-kick-ass-technical-resume-3mb1)
 
 ##### About Git and source code management
 
--   [Some Visual Git
-    References](https://github.com/92bondstreet/web-application-architectures/blob/master/CM2/git-me-imfamous.md)
+-   [Conversational Git](http://blog.anvard.org/conversational-git/)
 
 #### 🍿 Must watch
 
 -   [Tools for the Modern Web
-    Developer](https://www.youtube.com/watch?v=Cej5JMotDX0)
+    Developer](https://www.youtube.com/watch?v=ygQ25o7yCSI)
 
 #### 👩‍💻 Just tell me what to do
 
@@ -309,7 +285,8 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
     Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 -   [Write your Readme
     first](http://elliot.land/post/readme-driven-development)
--   [Art of README](https://github.com/noffle/art-of-readme)
+-   [Art of README: Things I've learned about writing good
+    READMEs.](https://github.com/noffle/art-of-readme)
 -   [A curated list of awesome
     READMEs](https://github.com/matiassingers/awesome-readme)
 
@@ -317,20 +294,18 @@ Follow the tutorial to build an interactive tic-tac-toe game in React
 
 -   [On the merits of comment-driven
     development](https://mayaposch.wordpress.com/2017/04/09/on-the-merits-of-comment-driven-development/)
--   [Comment driven
-    development](http://blog.anorgan.com/2012/04/15/comment-driven-development/)
--   [Comment-Driven Development](https://www.approxion.com/?p=99)
+-   [Comment-driven development or comment
+    programming](http://blog.anorgan.com/2012/04/15/comment-driven-development/)
+-   [Why writing comments is hard](https://www.approxion.com/?p=99)
 
 ##### About Test-Driven Development
 
 -   [5 Questions Every Unit Test Must
     Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.2qa1xy9oe)
--   [TDD the RITE
-    Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
--   [Rethinking Unit Test
-    Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+-   [TDD Changed My
+    Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 -   🚀 [An Overview of JavaScript Testing in
-    2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+    2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 
 #### 🍿 Must watch
 
@@ -354,10 +329,8 @@ Write the tests for these 3 exercises:
 
 ##### About Data and IA
 
--   [2019 Will Be The Year of Data
-    Storytelling](https://medium.com/the-go-do-project/2019-will-be-the-year-of-data-storytelling-ec571db125a1)
--   [Artificial Intelligence: Everything You Want to
-    Know](https://www.scoro.com/blog/artificial-intelligence-everything-you-want-to-know/)
+-   [Seven Critical Predictions for Big Data in
+    2020](https://towardsdatascience.com/seven-critical-predictions-for-big-data-in-2020-e9a867620)
 -   [What Chicken Nuggets Taught Me About Using Data to
     Design](https://medium.com/design-x-data/what-chicken-nuggets-taught-me-about-using-data-to-design-b7d44dc7e855#.eshsn9gv9)
 
@@ -365,14 +338,12 @@ Write the tests for these 3 exercises:
 
 -   🚀 [A brief history of Web
     APIs](https://dev.to/mikeralphson/a-brief-history-of-web-apis-47k4)
--   [Best Practices for Designing a Pragmatic RESTful
-    API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+-   [RESTful API Designing guidelines — The best
+    practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 -   [10 Best Practices for Writing Node.js REST
     APIs](https://medium.com/the-node-js-collection/10-best-practices-for-writing-node-js-rest-apis-7643a7765cd)
 -   [What is GraphQL and how to use
     it](https://adityasridhar.com/posts/what-is-graphql-and-how-to-use-it)
--   [Getting started with GraphQL, React and apollo
-    client](https://dev.to/saigowthamr/getting-started-with-graphql-react-and-apollo-client-j8j)
 
 #### 🍿 Must watch
 
@@ -386,47 +357,41 @@ Follow and complete this blog post:
 -   [Developing A RESTful API With Node.js And MongoDB
     Atlas](https://www.thepolyglotdeveloper.com/2018/09/developing-restful-api-nodejs-mongodb-atlas/)
 
-### 📱 Course 8 - Progressive Web App, world of Hybrid
+### 📱 Course 8 - Make the Web accessible
 
 #### 📖 Must read
 
--   🚀 [A new way to deliver amazing user experiences on the
-    web](https://developers.google.com/web/progressive-web-apps)
--   [Will PWAs Replace Native Mobile
-    Apps](https://www.smashingmagazine.com/2018/12/pwa-native-mobile-apps)
--   [Why Native Apps Really are Doomed: Native Apps are Doomed pt
-    2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9)
--   [A Tinder Progressive Web App Performance Case
-    Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
--   [Making a Progressive Web
-    App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+-   [Fix 85% of your Web Accessibility issues in 5 easy
+    steps](https://codepen.io/alvaromontoro/post/fix-85-of-your-web-accessibility-issues-in-5-easy-steps)
+-   [Why It's Important For Web Developers To Focus On Web
+    Accessibility](https://dev.to/flippedcoding/why-it-s-important-for-web-developers-to-focus-on-web-accessibility-37n3)
+-   [Digital guide to low
+    tech](http://gauthierroussilhe.com/en/posts/convert-low-tech)
 
 #### 🍿 Must watch
 
--   [Progressive Web Apps: Great Experiences Everywhere (Google I/O
-    '17)](https://www.youtube.com/watch?v=m-sCdS0sQO8)
+-   [Pragmatic Accessibility: A How-To Guide for Teams (Google I/O
+    '17)](https://www.youtube.com/watch?v=A5XzoDT37iM)
 
 #### 👩‍💻 Just tell me what to do
 
-Follow and complete this blog post:
+Follow and complete this blog post tutorial:
 
--   [Build a realtime PWA with
-    React](https://medium.com/front-end-weekly/build-a-realtime-pwa-with-react-99e7b0fd3270)
+-   [Web Accessibility For
+    Beginners](https://scotch.io/tutorials/web-accessibility-for-beginners)
 
 ### ⭕ Course 9 - EcmaScript 2015 (ES6): the circle is now complete
 
 #### 📖 Must read
 
 -   [ECMAScript 6](https://github.com/lukehoban/es6features)
--   [Stupid ES6
-    tricks](https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f)
 
 #### 🍿 Must watch
 
--   [Douglas Crockford – “The Better Parts” | .concat()
-    2015](https://www.youtube.com/watch?v=_EF-FO63MXs)
+-   [Douglas Crockford. The Better Parts. JS Fest
+    2018](https://www.youtube.com/watch?v=XFTOG895C7c)
 
-#### 👩‍💻 Just tell me what to do ... for the next days, weeks and months
+#### 👩‍💻 Just tell me what to do ... for the next days, weeks, months ... even years
 
 Before to deep dive into the Javascript Ecosystem, build a strong
 language understanding foundation. If you are ready to learn, the
@@ -434,8 +399,12 @@ following links in this post [How to Learn
 ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
 are a goood start.
 
-Then you can follow this awesome path: [Roadmap to becoming a Web
-Developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
+For the new decade, take a look at some trends data with [Top JavaScript
+Frameworks and Topics to Learn in 2020 and the New
+Decade](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+
+Then you can follow these awesome paths to become a Web developer:
+[Community driven roadmaps](https://roadmap.sh/)
 
 ## 📅 Schedule for live workshops
 
