@@ -1,3 +1,7 @@
+---
+title: "The 5 minutes introduction | JavaScript Empire"
+---
+
 👟
 
 ---
@@ -211,8 +215,6 @@ Yes and No
 
 1999
 
-* With Paul B.
-
 ---
 
 9 years
@@ -225,6 +227,10 @@ Former Lead Software Engineer 🛰️ AIRBUS
 5 years
 
 Director of Front-End Engineering @synthesio
+
+---
+
+Senior Engineering Manager PayFit
 
 ---
 
@@ -272,7 +278,7 @@ Internet ?
 
 ---
 
-7 billions in June 2017
+7,7 billions in June 2019
 
 ---
 
@@ -393,7 +399,7 @@ Be able to start an online business with a web application
 
 ---
 
-📱 Progressive Web App, world of Hybrid
+📱 Make the Web accessible
 
 ---
 
@@ -401,7 +407,7 @@ Be able to start an online business with a web application
 
 ---
 
-Github
+GitHub
 
 ---
 
@@ -415,7 +421,7 @@ yassine.azzout
 
 @
 
-gmail.com
+gmail dot com
 
 ---
 
@@ -512,6 +518,13 @@ no othello, no tic-tac-toe ...
 ---
 
 * Find SUV with the largest trunk
+
+---
+
+* List the best rates for Relais & Châteaux with starred restaurants
+
+---
+
 ...
 
 ---
@@ -560,7 +573,7 @@ as expected
 
 ---
 
-Discord, Slack... ?
+Slack for discussion
 
 ---
 
