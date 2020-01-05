@@ -105,8 +105,6 @@ To be ready the workshop day, links to tutorials, exercises to do...
 
 ##### About Internet and Web Application
 
--   [20 things I learned about browsers and the
-    web](http://www.20thingsilearned.com/en-US/home)
 -   [How the Web Works: A Primer for Newcomers to Web Development (or
     anyone,
     really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
@@ -128,7 +126,7 @@ To be ready the workshop day, links to tutorials, exercises to do...
 -   [How the Internet Works in 5
     Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 -   [What the...
-    JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+    JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
 
 #### 👩‍💻 Just tell me what to do
 
@@ -384,7 +382,8 @@ Follow and complete this blog post tutorial:
 
 #### 📖 Must read
 
--   [ECMAScript 6](https://github.com/lukehoban/es6features)
+-   [Overview of ECMAScript 6
+    features](https://github.com/lukehoban/es6features)
 
 #### 🍿 Must watch
 
