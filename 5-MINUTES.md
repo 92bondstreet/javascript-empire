@@ -6,6 +6,12 @@ title: "The 5 minutes introduction | JavaScript Empire"
 
 ---
 
+<!-- .slide: data-background="#d8d8d6" -->
+
+![yeezy](./img/yeezy.jpg) <!-- .element height="50%" width="50%" -->
+
+---
+
 YEEZY
 
 ---
@@ -118,6 +124,12 @@ How?
 
 ![me](https://media.giphy.com/media/l4Ho7SK3eN5kyo4OQ/giphy.gif)
 
+
+---
+
+<!-- .slide: data-background="#d8d8d6" -->
+
+![yeezy](./img/yeezy.jpg) <!-- .element height="50%" width="50%" -->
 
 ---
 
