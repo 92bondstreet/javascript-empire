@@ -9,7 +9,7 @@
 | 3 | [Course 3 - Node.js, Master of Universe](https://github.com/92bondstreet/javascript-empire#-course-3---nodejs-master-of-universe) | #2 [bib](https://github.com/92bondstreet/bib) | 21st January 2020
 | 4 | [Course 4 - React](https://github.com/92bondstreet/javascript-empire#-course-4---react) | #2 [bib](https://github.com/92bondstreet/bib) | 28th January 2020
 | 5 | [Course 5 - Toolbox and Productivity](https://github.com/92bondstreet/javascript-empire#-course-5---toolbox-and-productivity) | #2 [bib](https://github.com/92bondstreet/bib) | 25th February 2020
-| 6 | [Course 6 - 3 Musketeers: RDD, CDD and TDD](https://github.com/92bondstreet/javascript-empire#-course-6---3-musketeers-rdd-cdd-and-tdd) | #3 TBD | 3rd March 2020
+| 6 | [Course 6 - 3 Musketeers: RDD, CDD and TDD](https://github.com/92bondstreet/javascript-empire#-course-6---3-musketeers-rdd-cdd-and-tdd) | #3 [3-musketeers](https://github.com/92bondstreet/3-musketeers) | 3rd March 2020
 | 7 | [Course 7 - API-ness](https://github.com/92bondstreet/javascript-empire#-course-7---api-ness) | #4 TBD | 10th March 2020
 | 8 | [Course 8 -  Make the Web accessible](https://github.com/92bondstreet/javascript-empire#-course-8---make-the-web-accessible) | #4 TBD | 17th March 2020
 | 9 | [Course 9 - EcmaScript 2015 (ES6): the circle is now complete](https://github.com/92bondstreet/javascript-empire#-course-9---ecmascript-2015-es6-the-circle-is-now-complete) | #4 TBD | 24th March 2020
