@@ -2,7 +2,13 @@
 title: "The 5 minutes introduction | JavaScript Empire"
 ---
 
-👟
+2016, 2017, 2018, 2019, ~~2020~~, 2021
+
+---
+
+<!-- .slide: data-background="#d8d8d6" -->
+
+![yeezy](./img/2020.jpg) <!-- .element height="50%" width="50%" -->
 
 ---
 
@@ -112,11 +118,7 @@ resell higher 📈
 
 ---
 
-Niche
-
----
-
-<p style="background-color: #d8d8d6;color:#21232d">autopilot</p>
+Niche <p style="background-color: #d8d8d6;color:#21232d">autopilot</p>
 
 ---
 
@@ -139,41 +141,7 @@ bots
 
 ---
 
-clustering, high-frequency...
-
----
-
-tor
-
----
-
-node.js
-
----
-
-mongodb
-
----
-
-redis
-
----
-
-docker
-
----
-
-swarm
-
-kubernetes
-
----
-
-elasticsearch
-
----
-
-logstash + kibana
+tor, node.js, mongodb, redis, docker, kubernetes, elasticsearch...
 
 ---
 
@@ -221,36 +189,37 @@ Yes and No
 
 ---
 
-20
+22 years ago
 
----
-
-1999
+Esilv 1999
 
 ---
 
 9 years
 
-Former Lead Software Engineer 🛰️ AIRBUS
+Former Lead Software Engineer
 
+🛰️ Airbus
 
 ---
 
 5 years
 
-Director of Front-End Engineering @synthesio
+Director of Front-End Engineering
+
+📲 Synthesio
 
 ---
 
-Senior Engineering Manager PayFit
+1.5 years
+
+Senior Engineering Manager
+
+💳 PayFit
 
 ---
 
 <p style="background-color: #d8d8d6;color:#21232d">Coding for Money</p>
-
----
-
-92 Bond Street
 
 ---
 
@@ -269,6 +238,7 @@ Senior Engineering Manager PayFit
 Success Stories and Unicorn
 
 ---
+~2008/2009
 
 Uber, Airbnb, Snapchat, Dropbox, Spotify, Blabacar...
 
@@ -290,7 +260,7 @@ Internet ?
 
 ---
 
-7,7 billions in June 2019
+4.66 billions in Oct 2020
 
 ---
 
@@ -308,14 +278,15 @@ App
 
 ---
 
-* Search on google
-* Send a message (Instagram, whatsapp...)
+* Search on Google
+* Send a message (Instagram, WhatsApp...)
 * Buy the last bestseller on Amazon
 
 ---
 
-* Drive with waze
+* Drive with Waze
 * Eat Otacos with uberEats
+* Remote call with Zoom
 
 ---
 
@@ -323,11 +294,10 @@ App
 
 ---
 
-types in a URL
+From URL
 
----
 
-click on "GO"
+Click on "GO"
 
 ---
 
@@ -345,7 +315,7 @@ n ways to build a webapp
 
 ---
 
-Javascript Ecosystem
+JavaScript Ecosystem
 
 ---
 
@@ -379,43 +349,27 @@ Be able to start an online business with a web application
 
 ---
 
-9 courses
+3 Months
+
+3 Themes
 
 ---
 
 🏁 Javascript World Domination
 
----
-
-🍭 Suit up your apps
+<p style="font-size: 1.75em;">How JavaScript is eating the world.</p>
 
 ---
 
-🏄‍♀️ Node.js, Master of Universe
+🏗 Node.js, Master of Universe
+
+<p style="font-size: 1.75em;">How we can build a client and server application with the same language.</p>
 
 ---
 
-🖥️ React
+📡 Data is the new Gold
 
----
-
-🛠️ Toolbox and Productivity
-
----
-
-🤺 3 Musketeers: RDD, CDD and TDD
-
----
-
-📡 API-ness
-
----
-
-📱 Make the Web accessible
-
----
-
-⭕ EcmaScript 2015 (ES6): the circle is now complete
+<p style="font-size: 1.75em;">How to control your data to control your business.</p>
 
 ---
 
@@ -461,7 +415,7 @@ If you have just 30 minutes in your student busy life.
 
 <!-- .slide: data-background="#d8d8d6" -->
 
-![courses](./img/courses.png)
+![courses](./img/theme-1.png)
 
 ---
 
@@ -509,11 +463,13 @@ Make 💵 if you want
 
 ---
 
-4 workshops
+1 project
+
+Zero to Sold
 
 ---
 
-real-world problems
+Real-world problems
 
 ---
 
@@ -521,19 +477,23 @@ no othello, no tic-tac-toe ...
 
 ---
 
-* check if a sold car on leboncoin is a good deal
+🚙 Check if a sold car on Leboncoin is a good deal
 
 ---
 
-* Find all deals for 3-stars Michelin restaurant
+👨🏽‍🍳 Find all deals for 3-stars Michelin restaurant
 
 ---
 
-* Find SUV with the largest trunk
+🚘 Find SUV with the largest trunk
 
 ---
 
-* List the best rates for Relais & Châteaux with starred restaurants
+🏰 List the best rates for Relais & Châteaux with starred restaurants
+
+---
+
+🇫🇷 List Maître Restaurateur with Bib Gourmand distinction
 
 ---
 
@@ -541,7 +501,11 @@ no othello, no tic-tac-toe ...
 
 ---
 
-No marks
+~~Professor~~
+
+---
+
+No Marks
 
 ---
 
@@ -563,7 +527,7 @@ On-time
 
 ---
 
-as expected
+As expected
 
 ---
 
@@ -589,8 +553,18 @@ Slack for discussion
 
 ---
 
-Questions ?
+🎙Questions ?
+
+A.M.A
 
 ---
 
-Thanks
+🙏🏽 Thanks
+
+---
+
+github.com/92bondstreet
+
+/
+
+javascript-empire
