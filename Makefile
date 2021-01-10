@@ -1,7 +1,6 @@
 SHELL := /bin/bash
 
-readme: ## generate the README file from courses md files
-	docker run --rm -v `pwd`:/data jpbernius/pandoc --template courses/index.md.tpl -o README.md -s courses/*.md
+readme: ## generate the README file doctoc
 	doctoc README.md --github
 
 help: ## This help dialog.
