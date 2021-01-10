@@ -2,11 +2,11 @@
 .SILENT: build
 
 alias: ## alias to javascript-empire.now.sh
-	now alias $(filter-out $@,$(MAKECMDGOALS)) javascript-empire
+	vercel alias $(filter-out $@,$(MAKECMDGOALS)) javascript-empire
 
 deploy: ## deploy slides on javascript-empire
 	reveal-md 5-MINUTES.md --css reveal.css --template reveal.html --static dist
-	now dist -n javascript-empire
+	vercel --prod
 
 slides: ## start reveal on localhost
 	reveal-md 5-MINUTES.md --css reveal.css --template reveal.html -w
