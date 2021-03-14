@@ -14,5 +14,5 @@
 | 6 | 🏗 [Theme 2 - Node.js, Master of Universe](./themes/2.md) | [Scrape data with Node.js](https://github.com/92bondstreet/clear-fashion/blob/master/workshops/3-scrape-node.md) | 8th February 2021
 | 7 | 📡 [Theme 3 - Data is the new Gold](./themes/3.md) | [Save data in a Database with MongoDB](https://github.com/92bondstreet/clear-fashion/blob/master/workshops/4-store-mongodb.md) | 1st March 2021
 | 8 | 📡 [Theme 3 - Data is the new Gold](./themes/3.md) | [Build an api with Express to request data](https://github.com/92bondstreet/clear-fashion/blob/master/workshops/5-api-express.md) | 8th March 2021
-| 9 | 📡 [Theme 3 - Data is the new Gold](./themes/3.md) | TBD | 15th March 2021
+| 9 | 📡 [Theme 3 - Data is the new Gold](./themes/3.md) | [Deploy in production with Vercel](https://github.com/92bondstreet/clear-fashion/blob/master/workshops/7-deploy.md) | 15th March 2021
 | 10 | 📡 [Theme 3 - Data is the new Gold](./themes/3.md) | TBD | 22th March 2021
