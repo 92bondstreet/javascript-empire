@@ -2,7 +2,7 @@
 title: "The 5 minutes introduction | JavaScript Empire"
 ---
 
-2016, 2017, 2018, 2019, ~~2020~~, 2021
+2016, 2017, 2018, 2019, ~~2020~~, 2021, 2022
 
 ---
 
@@ -26,10 +26,6 @@ YEEZY
 
 ---
 
-Hype sneakers
-
-----
-
 💰
 
 Grey market
@@ -46,7 +42,13 @@ Grey market
 
 ---
 
-350 $
+600 $
+
+---
+
+stockx.com
+
+A stock exchange of things
 
 ---
 
@@ -58,47 +60,55 @@ Grey market
 
 <!-- .slide: data-background="#d8d8d6" -->
 
-![hu](./img/cement.png)
+![hu](./img/mona-lisa.jpeg)
 
 ---
 
-200 $
+Virgil Abloh x IKEA MARKERAD "MONA LISA"
 
 ---
 
-475 $
+99 $
 
 ---
 
-<!-- .slide: data-background="#d8d8d6" -->
-
-![hu-stockx](./img/cement-stockx.png)
-
----
-
-<!-- .slide: data-background="#d8d8d6" -->
-
-![gold](./img/ochre.png)
-
----
-
-160 $
-
----
-
-310 $
+250 $
 
 ---
 
 <!-- .slide: data-background="#d8d8d6" -->
 
-![gold-stockx](./img/ochre-stockx.png)
+![mona-lisa-stockx](./img/mona-lisa-stockx.png)
+
+---
+
+<!-- .slide: data-background="#d8d8d6" -->
+
+![boba-fett](./img/boba-fett.png)
+
+---
+
+LEGO Brick Headz Boba Fett & Han Solo
+
+---
+
+40 $
+
+---
+
+260 $
+
+---
+
+<!-- .slide: data-background="#d8d8d6" -->
+
+![/boba-fett-stockx](./img//boba-fett-stockx.png)
 
 ---
 
 Profit
 
-~ 555 $
+~ 751 $
 
 ---
 
@@ -108,7 +118,7 @@ Profit
 
 <!-- .slide: data-background="#21232d" -->
 
-<p style="background-color: #d8d8d6;color:#21232d">6.6660 $ / hr</p>
+<p style="background-color: #d8d8d6;color:#21232d">9.012 $ / hr</p>
 
 ---
 
@@ -189,7 +199,7 @@ Yes and No
 
 ---
 
-22 years ago
+23 years ago
 
 Esilv 1999
 
@@ -211,9 +221,9 @@ Director of Front-End Engineering
 
 ---
 
-1.5 years
+2.5 years
 
-Senior Engineering Manager
+Dir. of Engineering
 
 💳 PayFit
 
@@ -419,19 +429,19 @@ If you have just 30 minutes in your student busy life.
 
 ---
 
-📖 Must Read
+📖 **Must Read**
 
 Useful links to read as blog post
 
 ---
 
-🍿 Must Watch
+🍿 **Must Watch**
 
 talk or podcast for passive context
 
 ---
 
-👩‍💻 Just tell me what to do
+👩‍💻 **Just tell me what to do**
 
 To be ready the workshop day
 

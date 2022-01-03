@@ -6,7 +6,8 @@ alias: ## alias to javascript-empire.now.sh
 
 deploy: ## deploy slides on javascript-empire
 	reveal-md 5-MINUTES.md --css reveal.css --template reveal.html --static dist
-	vercel --prod
+	vercel dist --prod
+	vercel alias https://javascript-empire-yass1.vercel.app javascript-empire
 
 slides: ## start reveal on localhost
 	reveal-md 5-MINUTES.md --css reveal.css --template reveal.html -w
