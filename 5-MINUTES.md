@@ -205,6 +205,10 @@ Esilv 1999
 
 ---
 
+~~Developer~~, ~~Software Developer~~, ~~Software Engineer~~
+
+---
+
 9 years
 
 Former Lead Software Engineer
@@ -213,11 +217,21 @@ Former Lead Software Engineer
 
 ---
 
-5 years
+17 years later
 
-Director of Front-End Engineering
+---
 
-📲 Synthesio
+The Perfect Storm Causing an Insane Tech Hiring Market
+
+---
+
+We are in the most heated tech hiring market of all time 💸 
+
+---
+
+<!-- .slide: data-background="#d8d8d6" -->
+
+![courses](./img/compensation.png)
 
 ---
 
@@ -237,7 +251,7 @@ Dir. of Engineering
 * Affiliation
 * Bots
 * iPhone re-selling
-* t-shirts
+* T-shirts
 
 ---
 
@@ -263,6 +277,14 @@ Uber, Airbnb, Snapchat, Dropbox, Spotify, Blabacar...
 ---
 
 <p style="background-color: #d8d8d6;color:#21232d">Web</p>
+
+---
+
+Web 1.0
+
+Web 2.0
+
+Web 3.0
 
 ---
 
@@ -295,7 +317,7 @@ App
 ---
 
 * Drive with Waze
-* Eat Otacos with uberEats
+* Eat Otacos with Uber Eats
 * Remote call with Zoom
 
 ---
@@ -365,19 +387,19 @@ Be able to start an online business with a web application
 
 ---
 
-🏁 Javascript World Domination
+🏁 **Javascript World Domination**
 
 <p style="font-size: 1.75em;">How JavaScript is eating the world.</p>
 
 ---
 
-🏗 Node.js, Master of Universe
+🏗 **Node.js, Master of Universe**
 
 <p style="font-size: 1.75em;">How we can build a client and server application with the same language.</p>
 
 ---
 
-📡 Data is the new Gold
+📡 **Data is the new Gold**
 
 <p style="font-size: 1.75em;">How to control your data to control your business.</p>
 
@@ -437,7 +459,7 @@ Useful links to read as blog post
 
 🍿 **Must Watch**
 
-talk or podcast for passive context
+Talk or podcast for passive context
 
 ---
 
@@ -475,7 +497,7 @@ Make 💵 if you want
 
 1 project
 
-Zero to Sold
+**Zero to Sold**
 
 ---
 
@@ -552,6 +574,7 @@ As expected
 <p style="background-color: #FF4136;color:#FF4136">😶</p>
 
 ---
+Example of range
 
 * 20 / 15 / 10
 * 15 / 10 / 5
@@ -573,7 +596,11 @@ A.M.A
 
 ---
 
-github.com/92bondstreet
+github.com
+
+---
+
+92bondstreet
 
 /
 
