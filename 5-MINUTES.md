@@ -6,9 +6,7 @@ title: "The 5 minutes introduction | JavaScript Empire"
 
 ---
 
-<!-- .slide: data-background="#d8d8d6" -->
-
-![yeezy](./img/2020.jpg) <!-- .element height="50%" width="50%" -->
+<p style="font-size: 1em;">The goal of this module is to teach how to develop web applications. Techniques and technologies (nodejs, js, frameworks, API repository, json) will be implemented in a real software development context: TDD, GIT, Design pattern.</p>
 
 ---
 
@@ -225,7 +223,7 @@ The Perfect Storm Causing an Insane Tech Hiring Market
 
 ---
 
-We are in the most heated tech hiring market of all time 💸 
+We are in the most heated tech hiring market of all time 💸
 
 ---
 
