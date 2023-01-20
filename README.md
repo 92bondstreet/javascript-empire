@@ -1,6 +1,6 @@
 # Javascript Empire
 
-> 2022 ESILV courses on Web Application Architecture(s)
+> 2023 ESILV courses on Web Application Architecture(s)
 
 ![Illustration by https://illlustrations.co/](./themes/day95-app-development.png)
 
@@ -59,7 +59,7 @@ Before to deep dive into the Javascript Ecosystem, **build a strong language und
 If you are ready to learn, the following links in this post [How to Learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620) are a good start.
 
 For the new decade, take a look at some trends data with [Top JavaScript Frameworks and Tech Trends for 2021](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69).
-Still valid for 2022.
+Still valid for 2023.
 
 Then you can **follow these awesome paths to become a Web developer**: [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/)
 
