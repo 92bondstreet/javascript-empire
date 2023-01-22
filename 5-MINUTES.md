@@ -2,7 +2,7 @@
 title: "The 5 minutes introduction | JavaScript Empire"
 ---
 
-2016, 2017, 2018, 2019, ~~2020~~, 2021, 2022
+2016, 2017, 2018, 2019, ~~2020~~, 2021, 2022, 2023
 
 ---
 
@@ -149,7 +149,7 @@ bots
 
 ---
 
-tor, node.js, mongodb, redis, docker, kubernetes, elasticsearch...
+![archi](./img/archi.JPG) <!-- .element height="50%" width="50%" -->
 
 ---
 
@@ -197,7 +197,7 @@ Yes and No
 
 ---
 
-23 years ago
+24 years ago
 
 Esilv 1999
 
@@ -233,11 +233,25 @@ We are in the most heated tech hiring market of all time 💸
 
 ---
 
-2.5 years
+But...
+
+---
+
+<!-- .slide: data-background="#d8d8d6" -->
+
+![year](./img/1year.png)
+
+---
+
+3.8 years
 
 Dir. of Engineering
 
 💳 PayFit
+
+---
+
+**2 Permanent contracts** (CDI) with former students
 
 ---
 
@@ -290,7 +304,7 @@ Internet ?
 
 ---
 
-4.66 billions in Oct 2020
+5.03 billions in July 2022
 
 ---
 
@@ -561,26 +575,25 @@ As expected
 
 ---
 
-<p style="background-color: #2ECC40;color:#2ECC40">🤩</p>
+Performance Review
 
 ---
 
-<p style="background-color: #FF851B;color:#FF851B">😑</p>
+🔴 🟠 🟢 🚀 🌟
 
 ---
 
-<p style="background-color: #FF4136;color:#FF4136">😶</p>
+<!-- .slide: data-background="#d8d8d6" -->
+
+![perf](./img/perf.png) <!-- .element height="75%" width="75%" -->
 
 ---
+
 Example of range
 
 * 20 / 15 / 10
 * 15 / 10 / 5
 * 10 / 5 / 0
-
----
-
-Slack for discussion
 
 ---
 
